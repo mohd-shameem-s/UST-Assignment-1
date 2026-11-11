@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 Content from master branch
-=======
 Content from feature branch
->>>>>>> conflict-feature
+
